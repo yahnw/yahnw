@@ -6,7 +6,7 @@ A crowd source tech weekly aggregating headlines, articles, open source projects
 
 ## 2019
 
-[Week 42](https://github.com/yahnw/yahnw/blob/master/2019/42.md)
+[Week 42](https://github.com/yahnw/yahnw/blob/master/2019/42.md) | [Week 43](https://github.com/yahnw/yahnw/blob/master/2019/43.md)
 
 ---
 
